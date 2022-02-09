@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @RazorSharp021
-- 👀 I’m interested in Coding and Electroninc Music
-- 🌱 I’m currently learning Software Engineering at General Assembly
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Hi, I’m Reza
+-I’m currently learning Software Engineering at General Assembly
 
 <!---
 RazorSharp021/RazorSharp021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
