@@ -1,5 +1,5 @@
 -Hi, I’m Reza
--I’m currently learning Software Engineering at General Assembly
+-currently learning Software Engineering at General Assembly
 
 <!---
 RazorSharp021/RazorSharp021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
